@@ -1,0 +1,234 @@
+[05.06.2024 0:03:33]
+Ошибкаtree -p 333Index was outside the bounds of the array.
+
+[07.06.2024 14:14:47]
+Ошибкаtree -p 333Index was outside the bounds of the array.
+
+[07.06.2024 14:15:39]
+Ошибкаtree -p 333Index was outside the bounds of the array.
+
+[07.06.2024 14:43:32]
+ОшибкаtouchIndex was outside the bounds of the array.
+
+[07.06.2024 15:11:18]
+ОшибкаtreeAccess to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 15:17:51]
+Ошибкаls D:\WOW\World of Warcraft SirusCould not find a part of the path 'D:\WOW\World'.
+
+[07.06.2024 15:18:06]
+Ошибкаls D:\WOW\World of Warcraft SirusCould not find a part of the path 'D:\WOW\World'.
+
+[07.06.2024 15:26:42]
+Ошибкаls D:\steamAccess to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 15:26:48]
+Ошибкаls D:\SteamAccess to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 15:32:37]
+Ошибкаls D:\steamIndex was outside the bounds of the array.
+
+[07.06.2024 15:32:44]
+Ошибкаls D:\SteamIndex was outside the bounds of the array.
+
+[07.06.2024 15:32:58]
+Ошибкаls D:\WOWIndex was outside the bounds of the array.
+
+[07.06.2024 15:40:20]
+Ошибкаls D:\SteamAccess to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 15:42:21]
+Ошибкаls D:\SteamПараметр задан неверно. : 'D:\Steam\bin\audio.dll'
+
+[07.06.2024 16:09:12]
+Ошибкаls D:\SteamThe input string 'D:\Steam' was not in a correct format.
+
+[07.06.2024 16:09:39]
+Ошибкаls D:\steamThe input string 'D:\steam' was not in a correct format.
+
+[07.06.2024 16:11:57]
+Ошибкаls D:\SteamAccess to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 16:12:02]
+ОшибкаlsIndex was outside the bounds of the array.
+
+[07.06.2024 16:12:07]
+Ошибкаls D:\SteamAccess to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 16:12:37]
+Ошибкаls D:\WOWAccess to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 16:12:50]
+Ошибкаls C:\Access to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 16:13:19]
+Ошибкаls D:\SteamAccess to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 16:48:47]
+Ошибкаls -p 3Could not find a part of the path 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\-p'.
+
+[07.06.2024 16:48:55]
+Ошибкаtree -p 3Access to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 16:53:13]
+Ошибкаls -p 2Could not find a part of the path 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\-p'.
+
+[07.06.2024 16:53:41]
+Ошибкаls -p 2Could not find a part of the path 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\-p'.
+
+[07.06.2024 16:56:02]
+Ошибкаls -p 2Could not find a part of the path 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\-p'.
+
+[07.06.2024 16:56:08]
+Ошибкаls -p 1Could not find a part of the path 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\-p'.
+
+[07.06.2024 16:56:34]
+Ошибкаls -p 2Could not find a part of the path 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\-p'.
+
+[07.06.2024 17:06:04]
+Ошибкаls -p 2Could not find a part of the path 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\-p'.
+
+[07.06.2024 17:06:34]
+Ошибкаls -p 2Index was outside the bounds of the array.
+
+[07.06.2024 17:07:26]
+Ошибкаls -p 2Index was outside the bounds of the array.
+
+[07.06.2024 17:08:22]
+Ошибкаls -p 2Index was outside the bounds of the array.
+
+[07.06.2024 17:12:32]
+Ошибкаls -p 2Index was outside the bounds of the array.
+
+[07.06.2024 17:12:55]
+Ошибкаls -p 2Access to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 17:13:00]
+Ошибкаls -p 1Access to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.
+
+[07.06.2024 17:14:46]
+Ошибкаls -p .crashThe input string '.crash' was not in a correct format.
+
+[07.06.2024 17:27:09]
+Ошибкаls D:\SteamCould not find file 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\.cef-dev-tools-size.vdf'.
+
+[07.06.2024 17:43:52]
+ОшибкаtouchIndex was outside the bounds of the array.
+
+[07.06.2024 17:49:48]
+Ошибкаmove D:\Steam Source and destination path must have identical roots. Move will not work across volumes.
+
+[07.06.2024 17:50:27]
+Ошибкаmove C:\DZСинтаксическая ошибка в имени файла, имени папки или метке тома.
+
+[07.06.2024 17:50:45]
+Ошибкаmove C:\DZСинтаксическая ошибка в имени файла, имени папки или метке тома.
+
+[07.06.2024 17:52:15]
+Ошибкаmove D:\VideoCannot create 'D:\WOW' because a file or directory with the same name already exists.
+
+[07.06.2024 18:07:11]
+Ошибкаls D:\SteamIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+
+[07.06.2024 18:07:16]
+Ошибкаls D:\SteamIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+
+[07.06.2024 18:14:45]
+Ошибкаls D:\SteamCould not find file 'D:\Steam'.
+
+[07.06.2024 18:15:37]
+Ошибкаls D:\SteamCould not find file 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\System.String[]'.
+
+[07.06.2024 18:16:04]
+Ошибкаls D:\SteamCould not find file 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\System.Collections.Generic.List`1[System.String]'.
+
+[07.06.2024 18:28:18]
+Ошибкаls -p 4Index was outside the bounds of the array.
+
+[07.06.2024 18:28:33]
+Ошибкаls -p 3Index was outside the bounds of the array.
+
+[07.06.2024 18:29:34]
+ОшибкаtreeCould not find a part of the path 'D:\steam\steamapps\common\DayZ\!Workshop\@@DZN MOD VANILLA'.
+
+[07.06.2024 18:30:08]
+ОшибкаtreeCould not find a part of the path 'D:\steam\steamapps\common\DayZ\!Workshop\@@DZN MOD VANILLA'.
+
+[07.06.2024 18:34:59]
+Ошибкаls -p 2Could not find a part of the path 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\-p'.
+
+[07.06.2024 18:35:03]
+Ошибкаls -p 1Could not find a part of the path 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\-p'.
+
+[07.06.2024 18:59:40]
+ОшибкаdeleteFile D:\asdCould not find a part of the path 'D:\asd'.
+
+[07.06.2024 19:00:00]
+ОшибкаdeleteFile D:\asd.txtCould not find a part of the path 'D:\asd.txt'.
+
+[07.06.2024 19:06:23]
+ОшибкаdeleteFile "D:\asd.txt.txt"Синтаксическая ошибка в имени файла, имени папки или метке тома. : 'C:\Users\maksi\source\repos\FileManagerMaksimov\FileManagerMaksimov\bin\Debug\net8.0\"D:\asd.txt.txt"'
+
+[07.06.2024 19:06:40]
+ОшибкаdeleteFile D:\asd.txt.txtПараметр задан неверно. : 'D:\asd.txt.txt'
+
+[07.06.2024 19:06:49]
+ОшибкаdeleteFile D:\asd.txtCould not find a part of the path 'D:\asd.txt'.
+
+[07.06.2024 19:11:36]
+Ошибкаmove D:\WOWCannot create 'D:\WOWASASA' because a file or directory with the same name already exists.
+
+[07.06.2024 19:41:18]
+Ошибкаmove D:\WOWIndex was outside the bounds of the array.
+
+[07.06.2024 19:41:49]
+Ошибкаmove D:\WOW D:\sasasCannot create 'D:\sasas' because a file or directory with the same name already exists.
+
+[07.06.2024 19:42:04]
+Ошибкаmove D:WOW D:\Синтаксическая ошибка в имени файла, имени папки или метке тома.
+
+[07.06.2024 19:42:12]
+Ошибкаmove D:\WOWIndex was outside the bounds of the array.
+
+[07.06.2024 19:48:58]
+Ошибкаmove D:\sasasIndex was outside the bounds of the array.
+
+[07.06.2024 19:51:20]
+Ошибкаmove D:\sasasSource and destination path must have identical roots. Move will not work across volumes.
+
+[07.06.2024 19:52:00]
+Ошибкаmove C:\DZСинтаксическая ошибка в имени файла, имени папки или метке тома.
+
+[07.06.2024 19:52:10]
+Ошибкаmove C:\Riot GamesCould not find a part of the path 'C:\Riot'.
+
+[07.06.2024 19:53:02]
+Ошибкаmove C:\Riot Games\Riot ClientCould not find a part of the path 'C:\Riot'.
+
+[07.06.2024 19:53:17]
+Ошибкаmove C:\Riot Games\Riot ClientCould not find a part of the path 'C:\Riot'.
+
+[07.06.2024 19:53:35]
+Ошибкаmove C:\Riot Games\Could not find a part of the path 'C:\Riot'.
+
+[07.06.2024 19:55:37]
+Ошибкаmove D:\WOWCannot create 'D:\sasas' because a file or directory with the same name already exists.
+
+[07.06.2024 20:04:34]
+Ошибкаmove D:\sasasSource and destination path must have identical roots. Move will not work across volumes.
+
+[07.06.2024 20:10:04]
+ОшибкаmkdirIndex was outside the bounds of the array.
+
+[07.06.2024 20:11:35]
+Ошибкаmkdir The value cannot be an empty string. (Parameter 'path')
+
+[07.06.2024 20:17:40]
+ОшибкаtouchIndex was outside the bounds of the array.
+
+[07.06.2024 20:20:01]
+ОшибкаmkdirIndex was outside the bounds of the array.
+
+[07.06.2024 20:21:11]
+Ошибкаls D:\infoCould not find a part of the path 'D:\info'.
+
